@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544141797991",
+    "firebase_url": "https://fir-application-f44a5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-application-f44a5",
+    "storage_bucket": "fir-application-f44a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544141797991:android:c87d379609c154dac942c2",
+        "android_client_info": {
+          "package_name": "com.hcmute.edu.vn.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544141797991-5bjsi7tjmc7h17plpgif6641tfsffqb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGyoxTpaTwu8mGtEp19sQtAlP3_gOBVmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544141797991-5bjsi7tjmc7h17plpgif6641tfsffqb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
