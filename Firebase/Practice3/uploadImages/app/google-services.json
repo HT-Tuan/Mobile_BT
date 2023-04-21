@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "61163893445",
+    "firebase_url": "https://fir-app-53b9c-default-rtdb.firebaseio.com",
+    "project_id": "fir-app-53b9c",
+    "storage_bucket": "fir-app-53b9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61163893445:android:460a97f24276a4e8e976ac",
+        "android_client_info": {
+          "package_name": "com.hcmute.edu.vn.uploadimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61163893445-b9adtsnbo5468c6288pk7l16m52bgnjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9LDcr8uhMncvfpTErbvwq43jUUU3Xw6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61163893445-b9adtsnbo5468c6288pk7l16m52bgnjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61163893445:android:4f55d574db8d4329e976ac",
+        "android_client_info": {
+          "package_name": "com.hcmute.edu.vn.uploadvideoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61163893445-b9adtsnbo5468c6288pk7l16m52bgnjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9LDcr8uhMncvfpTErbvwq43jUUU3Xw6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61163893445-b9adtsnbo5468c6288pk7l16m52bgnjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
