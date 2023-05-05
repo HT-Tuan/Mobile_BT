@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/xml_file_paths.xml.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/drawable_demo_img3.jpg.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/drawable/demo_img3.jpg"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/drawable_demo_img1.jpeg.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/drawable/demo_img1.jpeg"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/drawable_ic_camera.xml.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-pngs-12:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/drawable_demo_img2.jpeg.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/drawable/demo_img2.jpeg"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/layout_activity_main.xml.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.mlkit.codelab.objectdetection.app-merged_res-17:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.google.mlkit.codelab.objectdetection.app-main-19:/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
