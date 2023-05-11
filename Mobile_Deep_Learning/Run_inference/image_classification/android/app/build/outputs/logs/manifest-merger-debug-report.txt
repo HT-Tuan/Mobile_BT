@@ -1,0 +1,404 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:17:1-64:12
+INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:17:1-64:12
+INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:17:1-64:12
+INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:17:1-64:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/fea7977a820dc63948d398263a964745/transformed/viewbinding-7.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/637003cd77d8d63c3b07f975db411b57/transformed/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/63057e941c50e8bf03a9eb34fbee321c/transformed/navigation-fragment-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/08b3bdad2cf69777a1840bd305bfb642/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.1.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b49d7d88b7f4a6cabbb9a3cc134f8543/transformed/window-1.1.0-alpha02/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/9c6972a12c90045c076bc623a7bc31dc/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/f6693a937d8dafdae8b2f3c4613a24a7/transformed/navigation-ui-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/7a1acabc1ee6a211d2d93e8f7a319450/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/0606adb1f4889644f6075268504f75ec/transformed/navigation-ui-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/d15e826eadb6fb8e32de10a093eeaf44/transformed/navigation-runtime-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/huynhthanhtuan/.gradle/caches/transforms-3/37f48443fef837a6ded9531ab248b9f6/transformed/activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/776d6710136bcfee4dd58fccb9854d5d/transformed/navigation-common-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/1a03de8e7e98099e8fd2aac8a37920fe/transformed/navigation-common-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/fc62f2ab8972f4fa345e18623215fc69/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/e1780a2a89617fb4c487a2bb04db6c54/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/7c3a24e4f32f23ae39d2217f39ab6f4f/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ce3e5ae1904718ba35bc7e77b86133a1/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/30f7ea6b48f628941538be329136dcfb/transformed/camera-view-1.2.0-alpha02/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/323644b3c09d632979aecefc7b9167b1/transformed/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/4ed43927a0b2f84549795366cd2fe259/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c4865dc2b0abfa4e40846f0d906e6309/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/20b4b0163a18fc3784f02d4b53c3168f/transformed/core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b45c1b1f38d902dff6f06baa618d1909/transformed/camera-lifecycle-1.2.0-alpha02/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/705bb640ab514290b9e1165b0ba15add/transformed/camera-core-1.2.0-alpha02/AndroidManifest.xml:17:1-37:12
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c7a12fc302f51bf6ecf1921c8aee9e4a/transformed/tensorflow-lite-task-vision-0.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/fa7d6389e5d490172cf46d540abc6a5f/transformed/tensorflow-lite-gpu-delegate-plugin-0.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/75d31717b9f9886cd422835ad40d3488/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/huynhthanhtuan/.gradle/caches/transforms-3/45f6d526ea62dc1c229bbb4cf553039c/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/e732e29f7cd0a1ef92c8444f683861c3/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/54a9cfe3dc33e35e6be6410ac2b3bd81/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ec8eafa3207d0b3c3d7b02d941afa630/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/be10b1f8272be9322445b9ab548ff72b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/80eb1cf6cacb465abfe1a35b386a152b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/6db9fbca49a484f8faa09a5bb449ea32/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/e6692c3185bb18b780b614ae4508cd24/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/31b48e7467aca208ef3f2ff97db08c42/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b3e59b3c8e6b1a228a7ab81479c22caf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/571ca2c9bba92837a44f89de88a944bb/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ad21cc11005f2361979351ba41f74784/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ef33aeefed47d0f3ce61cc6871f5b060/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/d6adcb133bfe196679b02e5e4fa87627/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/2fd8d4dffdfdf7280eedade6d9e00dc4/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/cc379329e416e8a20f54ebd5694d52cd/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/7e9b84bb17a4aa67458b84cb8965b37b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/822ac1b2f61cc8f1a4fa6ad33392babe/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/cf2aae0248998c274545f8dd1b400c82/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/e4034183bc0b8cf0239364f8f9642340/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/66273abbb1b55de2dd272604e68fee85/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/5fa2e8d1a9796af822aadc91d5ebc53b/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/4bb8faf87d8178149770fe9174d4f07b/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/f95ccf0a7c2e0e646b06ea297d8385b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/bace9a05069eeddfa316dbef67871f4a/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/dbef0ecbf3fdae977019960f92422fa8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/662c46c470c502fcf96dca24b7e30503/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/14eedf68dce0047445584aaaaddf1f05/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/84b95e8d599b728fe4058d8715858077/transformed/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/571a743fe964aef96c1984ea80538d6b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/4d8de48ef302b4eab2fd2f380d3d3fcf/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/aa282da4769c137182b157c7d4ad531e/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b5d4b7affc84d9782686e062fbfea5fa/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/6e1011129f87f26cb7b791494f8b75a0/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/f8cd0e1302a5127f2e0ceb4b9f144c8a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c2488490e1229313624bd27e610982e4/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/732c634b2842c0a8ff34decf9647acf1/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/65b7d0310d886936539200f71c8afe51/transformed/tensorflow-lite-task-base-0.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/78b79cf80a2d87018aecaed6feb04d17/transformed/tensorflow-lite-support-api-0.4.0/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/2c62d9df2579029181fa2d9f043e6065/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/2ded84fd9f5781bd65b871442648e948/transformed/image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:17:1-64:12
+INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:17:1-64:12
+INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:17:1-64:12
+	package
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:20:5-63
+		INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:17:1-64:12
+		INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:19:5-51
+	xmlns:dist
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:18:5-61
+	android:versionCode
+		INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:17:1-64:12
+		INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:17:11-69
+dist:module
+ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:23:5-40
+	dist:instant
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:23:18-37
+uses-feature#android.hardware.camera
+ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:26:5-60
+	android:name
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:26:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:29:5-65
+	android:name
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:29:22-62
+application
+ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:31:5-62:19
+MERGED from [androidx.window:window:1.1.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b49d7d88b7f4a6cabbb9a3cc134f8543/transformed/window-1.1.0-alpha02/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.1.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b49d7d88b7f4a6cabbb9a3cc134f8543/transformed/window-1.1.0-alpha02/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.6.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/7c3a24e4f32f23ae39d2217f39ab6f4f/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/7c3a24e4f32f23ae39d2217f39ab6f4f/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ce3e5ae1904718ba35bc7e77b86133a1/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ce3e5ae1904718ba35bc7e77b86133a1/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:24:5-35:19
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:24:5-35:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/705bb640ab514290b9e1165b0ba15add/transformed/camera-core-1.2.0-alpha02/AndroidManifest.xml:24:5-35:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/705bb640ab514290b9e1165b0ba15add/transformed/camera-core-1.2.0-alpha02/AndroidManifest.xml:24:5-35:19
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/fa7d6389e5d490172cf46d540abc6a5f/transformed/tensorflow-lite-gpu-delegate-plugin-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/fa7d6389e5d490172cf46d540abc6a5f/transformed/tensorflow-lite-gpu-delegate-plugin-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/75d31717b9f9886cd422835ad40d3488/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/75d31717b9f9886cd422835ad40d3488/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ec8eafa3207d0b3c3d7b02d941afa630/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ec8eafa3207d0b3c3d7b02d941afa630/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/cc379329e416e8a20f54ebd5694d52cd/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/cc379329e416e8a20f54ebd5694d52cd/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/f95ccf0a7c2e0e646b06ea297d8385b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/f95ccf0a7c2e0e646b06ea297d8385b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/bace9a05069eeddfa316dbef67871f4a/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/bace9a05069eeddfa316dbef67871f4a/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/dbef0ecbf3fdae977019960f92422fa8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/dbef0ecbf3fdae977019960f92422fa8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/65b7d0310d886936539200f71c8afe51/transformed/tensorflow-lite-task-base-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/65b7d0310d886936539200f71c8afe51/transformed/tensorflow-lite-task-base-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/2c62d9df2579029181fa2d9f043e6065/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/2c62d9df2579029181fa2d9f043e6065/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/2ded84fd9f5781bd65b871442648e948/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/2ded84fd9f5781bd65b871442648e948/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/cc379329e416e8a20f54ebd5694d52cd/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:36:9-35
+	android:label
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:34:9-41
+	tools:ignore
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:38:9-35
+	android:roundIcon
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:35:9-54
+	android:icon
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:33:9-43
+	android:allowBackup
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:32:9-35
+	android:taskAffinity
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:37:9-32
+activity#org.tensorflow.lite.examples.imageclassification.MainActivity
+ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:40:9-61:20
+	android:clearTaskOnLaunch
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:42:13-45
+	android:exported
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:44:13-36
+	android:resizeableActivity
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:45:13-46
+	android:rotationAnimation
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:43:13-91
+	tools:targetApi
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:48:13-32
+	android:theme
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:41:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:54:27-74
+meta-data#android.notch_support
+ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:58:13-60:40
+	android:value
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:60:17-37
+	android:name
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:59:17-53
+uses-sdk
+INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/fea7977a820dc63948d398263a964745/transformed/viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/fea7977a820dc63948d398263a964745/transformed/viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/637003cd77d8d63c3b07f975db411b57/transformed/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/637003cd77d8d63c3b07f975db411b57/transformed/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/63057e941c50e8bf03a9eb34fbee321c/transformed/navigation-fragment-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/63057e941c50e8bf03a9eb34fbee321c/transformed/navigation-fragment-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/08b3bdad2cf69777a1840bd305bfb642/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/08b3bdad2cf69777a1840bd305bfb642/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.1.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b49d7d88b7f4a6cabbb9a3cc134f8543/transformed/window-1.1.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.1.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b49d7d88b7f4a6cabbb9a3cc134f8543/transformed/window-1.1.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/9c6972a12c90045c076bc623a7bc31dc/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/9c6972a12c90045c076bc623a7bc31dc/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/f6693a937d8dafdae8b2f3c4613a24a7/transformed/navigation-ui-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/f6693a937d8dafdae8b2f3c4613a24a7/transformed/navigation-ui-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/7a1acabc1ee6a211d2d93e8f7a319450/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/7a1acabc1ee6a211d2d93e8f7a319450/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/0606adb1f4889644f6075268504f75ec/transformed/navigation-ui-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/0606adb1f4889644f6075268504f75ec/transformed/navigation-ui-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/d15e826eadb6fb8e32de10a093eeaf44/transformed/navigation-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/d15e826eadb6fb8e32de10a093eeaf44/transformed/navigation-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/huynhthanhtuan/.gradle/caches/transforms-3/37f48443fef837a6ded9531ab248b9f6/transformed/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/huynhthanhtuan/.gradle/caches/transforms-3/37f48443fef837a6ded9531ab248b9f6/transformed/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/776d6710136bcfee4dd58fccb9854d5d/transformed/navigation-common-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/776d6710136bcfee4dd58fccb9854d5d/transformed/navigation-common-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/1a03de8e7e98099e8fd2aac8a37920fe/transformed/navigation-common-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/1a03de8e7e98099e8fd2aac8a37920fe/transformed/navigation-common-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/fc62f2ab8972f4fa345e18623215fc69/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/fc62f2ab8972f4fa345e18623215fc69/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/e1780a2a89617fb4c487a2bb04db6c54/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/e1780a2a89617fb4c487a2bb04db6c54/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/7c3a24e4f32f23ae39d2217f39ab6f4f/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/7c3a24e4f32f23ae39d2217f39ab6f4f/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ce3e5ae1904718ba35bc7e77b86133a1/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ce3e5ae1904718ba35bc7e77b86133a1/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-view:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/30f7ea6b48f628941538be329136dcfb/transformed/camera-view-1.2.0-alpha02/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.camera:camera-view:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/30f7ea6b48f628941538be329136dcfb/transformed/camera-view-1.2.0-alpha02/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/323644b3c09d632979aecefc7b9167b1/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/323644b3c09d632979aecefc7b9167b1/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/4ed43927a0b2f84549795366cd2fe259/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/4ed43927a0b2f84549795366cd2fe259/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c4865dc2b0abfa4e40846f0d906e6309/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c4865dc2b0abfa4e40846f0d906e6309/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/20b4b0163a18fc3784f02d4b53c3168f/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/20b4b0163a18fc3784f02d4b53c3168f/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b45c1b1f38d902dff6f06baa618d1909/transformed/camera-lifecycle-1.2.0-alpha02/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b45c1b1f38d902dff6f06baa618d1909/transformed/camera-lifecycle-1.2.0-alpha02/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/705bb640ab514290b9e1165b0ba15add/transformed/camera-core-1.2.0-alpha02/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/705bb640ab514290b9e1165b0ba15add/transformed/camera-core-1.2.0-alpha02/AndroidManifest.xml:21:5-22:38
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c7a12fc302f51bf6ecf1921c8aee9e4a/transformed/tensorflow-lite-task-vision-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c7a12fc302f51bf6ecf1921c8aee9e4a/transformed/tensorflow-lite-task-vision-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/75d31717b9f9886cd422835ad40d3488/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/75d31717b9f9886cd422835ad40d3488/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/huynhthanhtuan/.gradle/caches/transforms-3/45f6d526ea62dc1c229bbb4cf553039c/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/huynhthanhtuan/.gradle/caches/transforms-3/45f6d526ea62dc1c229bbb4cf553039c/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/e732e29f7cd0a1ef92c8444f683861c3/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/e732e29f7cd0a1ef92c8444f683861c3/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/54a9cfe3dc33e35e6be6410ac2b3bd81/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/54a9cfe3dc33e35e6be6410ac2b3bd81/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ec8eafa3207d0b3c3d7b02d941afa630/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ec8eafa3207d0b3c3d7b02d941afa630/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/be10b1f8272be9322445b9ab548ff72b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/be10b1f8272be9322445b9ab548ff72b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/80eb1cf6cacb465abfe1a35b386a152b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/80eb1cf6cacb465abfe1a35b386a152b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/6db9fbca49a484f8faa09a5bb449ea32/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/6db9fbca49a484f8faa09a5bb449ea32/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/e6692c3185bb18b780b614ae4508cd24/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/e6692c3185bb18b780b614ae4508cd24/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/31b48e7467aca208ef3f2ff97db08c42/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/31b48e7467aca208ef3f2ff97db08c42/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b3e59b3c8e6b1a228a7ab81479c22caf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b3e59b3c8e6b1a228a7ab81479c22caf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/571ca2c9bba92837a44f89de88a944bb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/571ca2c9bba92837a44f89de88a944bb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ad21cc11005f2361979351ba41f74784/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ad21cc11005f2361979351ba41f74784/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ef33aeefed47d0f3ce61cc6871f5b060/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ef33aeefed47d0f3ce61cc6871f5b060/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/d6adcb133bfe196679b02e5e4fa87627/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/d6adcb133bfe196679b02e5e4fa87627/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/2fd8d4dffdfdf7280eedade6d9e00dc4/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/2fd8d4dffdfdf7280eedade6d9e00dc4/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/cc379329e416e8a20f54ebd5694d52cd/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/cc379329e416e8a20f54ebd5694d52cd/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/7e9b84bb17a4aa67458b84cb8965b37b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/7e9b84bb17a4aa67458b84cb8965b37b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/822ac1b2f61cc8f1a4fa6ad33392babe/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/822ac1b2f61cc8f1a4fa6ad33392babe/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/cf2aae0248998c274545f8dd1b400c82/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/cf2aae0248998c274545f8dd1b400c82/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/e4034183bc0b8cf0239364f8f9642340/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/e4034183bc0b8cf0239364f8f9642340/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/66273abbb1b55de2dd272604e68fee85/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/66273abbb1b55de2dd272604e68fee85/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/5fa2e8d1a9796af822aadc91d5ebc53b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/5fa2e8d1a9796af822aadc91d5ebc53b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/4bb8faf87d8178149770fe9174d4f07b/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/huynhthanhtuan/.gradle/caches/transforms-3/4bb8faf87d8178149770fe9174d4f07b/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/f95ccf0a7c2e0e646b06ea297d8385b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/f95ccf0a7c2e0e646b06ea297d8385b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/bace9a05069eeddfa316dbef67871f4a/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/bace9a05069eeddfa316dbef67871f4a/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/dbef0ecbf3fdae977019960f92422fa8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/dbef0ecbf3fdae977019960f92422fa8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/662c46c470c502fcf96dca24b7e30503/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/662c46c470c502fcf96dca24b7e30503/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/14eedf68dce0047445584aaaaddf1f05/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/14eedf68dce0047445584aaaaddf1f05/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/84b95e8d599b728fe4058d8715858077/transformed/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/84b95e8d599b728fe4058d8715858077/transformed/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/571a743fe964aef96c1984ea80538d6b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/571a743fe964aef96c1984ea80538d6b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/4d8de48ef302b4eab2fd2f380d3d3fcf/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/4d8de48ef302b4eab2fd2f380d3d3fcf/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/aa282da4769c137182b157c7d4ad531e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/aa282da4769c137182b157c7d4ad531e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b5d4b7affc84d9782686e062fbfea5fa/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b5d4b7affc84d9782686e062fbfea5fa/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/6e1011129f87f26cb7b791494f8b75a0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/6e1011129f87f26cb7b791494f8b75a0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/f8cd0e1302a5127f2e0ceb4b9f144c8a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/f8cd0e1302a5127f2e0ceb4b9f144c8a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c2488490e1229313624bd27e610982e4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c2488490e1229313624bd27e610982e4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/732c634b2842c0a8ff34decf9647acf1/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/732c634b2842c0a8ff34decf9647acf1/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/78b79cf80a2d87018aecaed6feb04d17/transformed/tensorflow-lite-support-api-0.4.0/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/78b79cf80a2d87018aecaed6feb04d17/transformed/tensorflow-lite-support-api-0.4.0/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/2c62d9df2579029181fa2d9f043e6065/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/2c62d9df2579029181fa2d9f043e6065/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/2ded84fd9f5781bd65b871442648e948/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/huynhthanhtuan/.gradle/caches/transforms-3/2ded84fd9f5781bd65b871442648e948/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+		MERGED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+		MERGED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.1.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b49d7d88b7f4a6cabbb9a3cc134f8543/transformed/window-1.1.0-alpha02/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b49d7d88b7f4a6cabbb9a3cc134f8543/transformed/window-1.1.0-alpha02/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b49d7d88b7f4a6cabbb9a3cc134f8543/transformed/window-1.1.0-alpha02/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.1.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b49d7d88b7f4a6cabbb9a3cc134f8543/transformed/window-1.1.0-alpha02/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b49d7d88b7f4a6cabbb9a3cc134f8543/transformed/window-1.1.0-alpha02/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/b49d7d88b7f4a6cabbb9a3cc134f8543/transformed/window-1.1.0-alpha02/AndroidManifest.xml:29:13-51
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:25:9-34:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/705bb640ab514290b9e1165b0ba15add/transformed/camera-core-1.2.0-alpha02/AndroidManifest.xml:30:9-34:78
+MERGED from [androidx.camera:camera-core:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/705bb640ab514290b9e1165b0ba15add/transformed/camera-core-1.2.0-alpha02/AndroidManifest.xml:30:9-34:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:30:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:27:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:28:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:29:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:26:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:31:13-33:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:33:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha02] /Users/huynhthanhtuan/.gradle/caches/transforms-3/c8406efd540ca8c16335a33d3a7bc3d1/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml:32:17-103
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:17:1-64:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:17:1-64:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/huynhthanhtuan/Documents/Learning/Source_Code/Android_Mobile/examples/lite/examples/image_classification/android/app/src/main/AndroidManifest.xml:17:1-64:12 reason: tensorflow_lite_support.acceleration.configuration requested WRITE_EXTERNAL_STORAGE
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ec8eafa3207d0b3c3d7b02d941afa630/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/bace9a05069eeddfa316dbef67871f4a/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/bace9a05069eeddfa316dbef67871f4a/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/dbef0ecbf3fdae977019960f92422fa8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/dbef0ecbf3fdae977019960f92422fa8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ec8eafa3207d0b3c3d7b02d941afa630/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ec8eafa3207d0b3c3d7b02d941afa630/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ec8eafa3207d0b3c3d7b02d941afa630/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ec8eafa3207d0b3c3d7b02d941afa630/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ec8eafa3207d0b3c3d7b02d941afa630/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ec8eafa3207d0b3c3d7b02d941afa630/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/ec8eafa3207d0b3c3d7b02d941afa630/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/bace9a05069eeddfa316dbef67871f4a/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/bace9a05069eeddfa316dbef67871f4a/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huynhthanhtuan/.gradle/caches/transforms-3/bace9a05069eeddfa316dbef67871f4a/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
